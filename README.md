@@ -33,10 +33,6 @@ Desenvolvedor Python Senior com **12+ anos de experiência** em desenvolvimento 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 - 📊 Data Science | Machine Learning
 
-## 📊 Estatísticas do GitHub
-
-![Lucas Biason's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBiason&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBiason&layout=compact&theme=radical)
 
 ## 🏆 Projetos em Destaque
