@@ -29,29 +29,22 @@ Currently focused on backend architecture, machine learning, LLM-based solutions
 
 ## 🚀 Featured Projects
 
-### 🔐 Threat Modeling AI (ArchThreat Analyzer)
+### 🛠️ My Local Place
 
-AI-powered system for automated threat modeling using STRIDE methodology.  
-**Stack:** FastAPI, React, TypeScript, PostgreSQL, Docker, LLMs  
-🔗 [GitHub](https://github.com/LucasBiason/threat-modeling-ai)
+Local Infrastructure Platform for Developers.  
+**Stack:** Python, FastAPI, React, TypeScript, Docker  
+🔗 [GitHub](https://github.com/LucasBiason/my-local-place)
 
 ### 📈 ML Sales Forecasting
 
-Machine learning system for real estate price forecasting in the UK.  
+Production-ready machine learning system for real estate price forecasting.  
 **Stack:** Python, FastAPI, React, Docker, Random Forest  
 🔗 [GitHub](https://github.com/LucasBiason/ml-sales-forecasting)
 
-### 📧 ML Spam Classifier API
+### 📚 Engineering Knowledge Base
 
-API for email classification (spam/ham) using machine learning models.  
-**Stack:** Python, FastAPI, Docker, SVM  
-🔗 [GitHub](https://github.com/LucasBiason/ml-spam-classifier-api)
-
-### 🛠️ My Local Place
-
-Local development platform for managing Docker containers and services.  
-**Stack:** Python, FastAPI, React, TypeScript, Docker  
-🔗 [GitHub](https://github.com/LucasBiason/my-local-place)
+Curated knowledge platform for software engineering and AI practices.  
+**Stack:** Documentation, Architecture, Best Practices
 
 ---
 
