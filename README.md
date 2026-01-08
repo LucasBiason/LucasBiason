@@ -1,60 +1,67 @@
 # Lucas Biason
 
-## Quem sou eu
+**Senior Software Engineer | Backend | Python | AI | Microservices | Data & ML**
 
-Desenvolvedor Python Senior com 12+ anos de experiência em desenvolvimento web, focado em qualidade de código e usabilidade. Especialista em Django, FastAPI, automação de processos e análise de dados.
+Brazil 🇧🇷 | Remote-friendly 🌎
 
-Atualmente trabalho como Desenvolvedor Senior na [Astracode](https://astracode.com.br/), localizado em Santo André - São Paulo, Brasil. Formado em Engenharia de Computação pelo Centro Universitário Fundação Santo André.
+---
 
-## No que estou trabalhando
+## About Me
 
-### Trabalho
-- **ExpenseIQ** - Sistema de gestão de despesas com arquitetura de microserviços (9 serviços em produção)
-- Desenvolvimento de APIs REST com FastAPI e Django
-- Implementação de padrões arquiteturais (CQRS, Event Sourcing, Microservices)
+Senior Software Engineer with over 10 years of experience building backend systems, APIs, and data-driven solutions.
 
-### Estudos
-- **FIAP - Pós Tech IA para Devs** - Formação em Inteligência Artificial e Machine Learning (Fase 4 em andamento)
-- **Tech Challenge FIAP Fase 4** - Análise de vídeo com IA usando YOLOv11
-- **Udemy - Inteligência Artificial e Machine Learning** - Completando tópicos pendentes
-- **PyCodeBR - IA Master e Integration Master** - Formações em IA e integrações
-- **Rocketseat** - Múltiplas formações em IA (Machine Learning, IA para Devs, IA para Dados)
+My background is strongly rooted in Python and backend engineering, evolving over the years into distributed systems, microservices, and AI-powered applications. I work close to business problems, transforming complex requirements into scalable, maintainable, and high-impact software.
 
-### Projetos Pessoais
-- **IA-ML Knowledge Base** - Base de conhecimento pessoal sobre Inteligência Artificial e Machine Learning
-- **Microservices Knowledge Base** - Documentação de padrões arquiteturais e microserviços
-- **Programming Laboratory** - Laboratório de experimentação e aprendizado
-- **LeetCode Daily Practice** - Prática diária de algoritmos e estruturas de dados
+Currently focused on backend architecture, machine learning, LLM-based solutions, and systems that combine data, AI, and real-world business needs.
 
-## Ferramentas que uso
+---
 
-### Backend
-- Python (Django, FastAPI)
-- Node.js + TypeScript
-- PostgreSQL, MongoDB, Redis
+## 🧠 Core Expertise
 
-### Frontend
-- React + TypeScript
-- TailwindCSS
+- Backend development with Python (FastAPI, Django)
+- Scalable APIs and microservices architectures
+- Data-driven systems and analytics
+- Machine Learning and AI applied to products
+- LLM-based solutions and AI-assisted workflows
+- System integrations and distributed systems
 
-### IA/ML
-- LangChain
-- OpenAI API
-- Scikit-learn, Pandas, NumPy
+---
 
-### DevOps
-- Docker + Docker Compose
-- Nginx
+## 🚀 Featured Projects
 
-### Ferramentas de Desenvolvimento
-- Git, GitHub
-- Cursor (IDE)
-- Notion (organização)
-- Jupyter Notebooks
+### 🔐 Threat Modeling AI (ArchThreat Analyzer)
 
-## Como entrar em contato
+AI-powered system for automated threat modeling using STRIDE methodology.  
+**Stack:** FastAPI, React, TypeScript, PostgreSQL, Docker, LLMs  
+🔗 [GitHub](https://github.com/LucasBiason/threat-modeling-ai)
 
-- **LinkedIn**: [lucas-biason](https://www.linkedin.com/in/lucas-biason/)
-- **Email**: lucas.biason@foxcodesoftware.com
-- **Portfolio**: [lucasbiason.com](https://lucasbiason.com)
-- **GitHub**: [@LucasBiason](https://github.com/LucasBiason)
+### 📈 ML Sales Forecasting
+
+Machine learning system for real estate price forecasting in the UK.  
+**Stack:** Python, FastAPI, React, Docker, Random Forest  
+🔗 [GitHub](https://github.com/LucasBiason/ml-sales-forecasting)
+
+### 📧 ML Spam Classifier API
+
+API for email classification (spam/ham) using machine learning models.  
+**Stack:** Python, FastAPI, Docker, SVM  
+🔗 [GitHub](https://github.com/LucasBiason/ml-spam-classifier-api)
+
+### 🛠️ My Local Place
+
+Local development platform for managing Docker containers and services.  
+**Stack:** Python, FastAPI, React, TypeScript, Docker  
+🔗 [GitHub](https://github.com/LucasBiason/my-local-place)
+
+---
+
+## 🔗 Professional Links
+
+- 🌐 **Portfolio:** [lucasbiason.com](https://lucasbiason.com)
+- 💼 **LinkedIn:** [linkedin.com/in/lucas-biason](https://www.linkedin.com/in/lucas-biason)
+- 📄 **CV:** [github.com/LucasBiason/Curriculum](https://github.com/LucasBiason/Curriculum)
+- 📫 **Email:** lucas.biason@foxcodesoftware.com
+
+---
+
+*Open to opportunities in Brazil and internationally, especially in environments that value solid engineering and mature technical decision-making.*
