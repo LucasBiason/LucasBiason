@@ -27,27 +27,6 @@ Currently focused on backend architecture, machine learning, LLM-based solutions
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛠️ My Local Place
-
-Local Infrastructure Platform for Developers.  
-**Stack:** Python, FastAPI, React, TypeScript, Docker  
-🔗 [GitHub](https://github.com/LucasBiason/my-local-place)
-
-### 📈 ML Sales Forecasting
-
-Production-ready machine learning system for real estate price forecasting.  
-**Stack:** Python, FastAPI, React, Docker, Random Forest  
-🔗 [GitHub](https://github.com/LucasBiason/ml-sales-forecasting)
-
-### 📚 Engineering Knowledge Base
-
-Curated knowledge platform for software engineering and AI practices.  
-**Stack:** Documentation, Architecture, Best Practices
-
----
-
 ## 🔗 Professional Links
 
 - 🌐 **Portfolio:** [lucasbiason.com](https://lucasbiason.com)
